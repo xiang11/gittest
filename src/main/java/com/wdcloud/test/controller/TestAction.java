@@ -20,6 +20,7 @@ public class TestAction {
 	@GetMapping(value = "test")
 	public Object test() {
 
+		System.out.println("eclipse");
 		return null;
 	}
 }
