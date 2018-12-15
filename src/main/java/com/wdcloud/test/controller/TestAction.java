@@ -22,6 +22,7 @@ public class TestAction {
 
 		System.out.println("eclipse");
 		System.out.println("eclipse22");
+		System.out.println("idea11");
 		return null;
 	}
 }
