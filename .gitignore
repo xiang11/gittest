@@ -1,9 +1,11 @@
 /bin/
 *.class
 /*.iml/
-
+/.idea/
 /target/
 /.classpath
 /.project
 /.settings/
+/gittest.iml/
+.idea/
 

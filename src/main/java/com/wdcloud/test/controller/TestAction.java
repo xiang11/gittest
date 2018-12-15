@@ -21,6 +21,7 @@ public class TestAction {
 	public Object test() {
 
 		System.out.println("eclipse");
+		System.out.println("idea");
 		return null;
 	}
 }
