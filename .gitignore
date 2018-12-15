@@ -1,0 +1,9 @@
+/bin/
+*.class
+/*.iml/
+
+/target/
+/.classpath
+/.project
+/.settings/
+
